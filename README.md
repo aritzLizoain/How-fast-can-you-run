@@ -28,6 +28,10 @@ All olympic events are available: 100m, 200m, 400m, 800m, 1500m, 5000m, 10000m, 
 
 ## Predict your future PB!
 
+<p align="center">
+<img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Predict_PB.png"/>
+</p>
+
 ## Save your results in a txt file
 
 
