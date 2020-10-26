@@ -37,11 +37,14 @@ time = linspace(age_0,best_age_event);
 [coeff,values_in_time]=LeastSquaresApproximation(ages,PBs',F,time,0);
 %------------------------------PRINTS-------------------------------------
 if contains(units_event,"s") %running/walking races
-    best_PB = round(coeff(1)+coeff(2)*exp(-best_age_event),2);
+    best_PB = round(coeff(1)+coeff(2)*(best_age_event)+...
+        coeff(3)*exp(-best_age_event),2);
 elseif contains(units_event,"points") %heptathlon/decathlon
-    best_PB = round(coeff(1)+coeff(2)*exp(-best_age_event),2);
+    best_PB = round(coeff(1)+coeff(2)*(best_age_event)+...
+        coeff(3)*exp(-best_age_event),2);
 elseif contains(units_event,"cm") %throws and jumps
-    best_PB = round(coeff(1)+coeff(2)*log(best_age_event),2);
+    best_PB = round(coeff(1)+coeff(2)*(best_age_event)+...
+        coeff(3)*log(best_age_event),2);
 end
 display_results(best_age_event, WR_event_M, WR_event_W,...
     event_string, best_PB, units_event)

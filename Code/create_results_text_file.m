@@ -18,7 +18,7 @@ end
 fprintf(fid,print_PB);
 fprintf(fid,'\n--------------------------------------------------------------------------------------');
 fprintf(fid,'\nEvent: %s\t   You   \tWR (men)\tWR (women)', event_string);
-fprintf(fid,'\nPB (%s)\t   %0.2f\t        %0.2f\t        %0.2f',units_event,best_PB,WR_event_M, WR_event_W);
+fprintf(fid,'\nPB (%s)\t   %0.2f\t%0.2f\t        %0.2f',units_event,best_PB,WR_event_M, WR_event_W);
 fprintf(fid,'\n--------------------------------------------------------------------------------------');
     %\t --------- Horizontal tab
     %%f ---------- Floating-point number. 

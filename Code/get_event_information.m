@@ -10,8 +10,8 @@ function [event_string, title_event, units_event, WR_event_M, WR_event_W...
     , WR_event_legend_M, WR_event_legend_W, best_age_event, F]...
     = get_event_information(event)
 
-F_run=@(x) [1 exp(-x)];% f(x) = a + b*exp(-x)
-F_other=@(x) [1 log(x)];% f(x) = a + b*log(x)
+F_run=@(x) [1 x exp(-x)];% f(x) = a + b*x + c*exp(-x)
+F_other=@(x) [1 x log(x)];% f(x) = a + b*x + c*log(x)
 if contains(event,"100m")
         event_string = '100m';
         title_event = '100m PB progression';
