@@ -34,6 +34,10 @@ All olympic events are available: 100m, 200m, 400m, 800m, 1500m, 5000m, 10000m, 
 
 ## Save your results in a txt file
 
+<p align="center">
+<img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Results.png"/>
+</p>
+
 
 
  
