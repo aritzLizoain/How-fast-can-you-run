@@ -10,6 +10,7 @@ function [coeff,y]=LeastSquaresApproximation(a,b,F,x,plotme)
 % b=[-2;0;0;-2;-6];
 % F=@(x) [x x.ˆ4]
 % [coeff,y]=LeastSquaresApproximation(a,b,F,x,1);
+
 n=length(a);
 m=length(F(a(1)));
 A=zeros(n,m);

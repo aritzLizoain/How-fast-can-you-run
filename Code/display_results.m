@@ -3,6 +3,7 @@
 %seconds/cm/points (estimated at the age of "")
 function display_results(best_age_event, WR_event_M,...
     WR_event_W, event_string, best_PB, units_event)
+
 if contains(units_event,"s") %running/walking races
     if best_PB < WR_event_M
         result=sprintf('\nYour future PB in the %s event will be: %0.2f %s (estimated at the age of %0.0f)\nIt is a new world record! (for men and women)',...

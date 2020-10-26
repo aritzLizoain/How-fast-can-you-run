@@ -58,4 +58,3 @@ create_plot(time, values_in_time, ages, PBs, title_event, units_event,...
 %-------------------------------------------------------------------------
 % Don't feel discouraged, Kim Collins (Saint Kitts and Nevis) set his PB
 % and National Record (9.93s) of his country in the 100m at the age of 40!
-

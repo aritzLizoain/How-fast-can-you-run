@@ -1,6 +1,7 @@
 %AUTHOR: ARITZ LIZOAIN 
 function create_results_text_file(WR_event_M, event_string, best_PB,...
     units_event, best_age_event, WR_event_W);
+
 fid=fopen('Results.txt','wt'); %Opens the txt file
 fprintf(fid,'                                       RESULTS'); %fprintf to write anything on the file
 fprintf(fid,'\n--------------------------------------------------------------------------------------');
