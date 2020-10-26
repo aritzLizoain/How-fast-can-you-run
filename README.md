@@ -26,20 +26,10 @@ All olympic events are available: 100m, 200m, 400m, 800m, 1500m, 5000m, 10000m, 
 
 ## Analyze your progression 
 
-Gif
-
 ## Predict your future PB!
-
-
-Image
 
 ## Save your results in a txt file
 
-
-Image
-
--------------------
-Description: numerical methods. Minimos cuadrados. Young athletes. Track & Field.
 
 
  

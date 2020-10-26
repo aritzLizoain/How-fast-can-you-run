@@ -1,7 +1,7 @@
                                        RESULTS
 --------------------------------------------------------------------------------------
-Your future PB in the 100m event will be: 12.29 seconds (estimated at the age of 25)
+Your future PB in the 100m event will be: 11.87 seconds (estimated at the age of 25)
 --------------------------------------------------------------------------------------
 Event: 100m	   You   	WR (men)	WR (women)
-PB (seconds)	   12.29	        9.58	        10.49
+PB (seconds)	   11.87	        9.58	        10.49
 --------------------------------------------------------------------------------------
