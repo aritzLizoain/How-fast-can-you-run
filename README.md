@@ -9,22 +9,27 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/aritzLizoain/How-fast-can-you-run?style=social)
 
 ## Choose your event
-All olympic events are available: 100m, etc.
-Image matlab when input is asked
+All olympic events are available: 100m, 200m, 400m, 800m, 1500m, 5000m, 10000m, marathon, 100m hurdles, 110m hurdles, 400m hurdles, 3000m steeplechase, high jump, long jump, triple jump, pole vault, shot put, javelin throw, discus throw, hammer throw, decathlon, heptathlon, 20km walk, 50km walk.
+
+Image
 
 ## Enter your personal bests (PBs)
-Image matlab when input is asked
+
+Image
 
 ## Analyze your progression 
-Image matlab graph
+
+Gif
 
 ## Predict your future PB!
-Image matlab sentence future PB
+
+
+Image
 
 ## Save your results in a txt file
-Image txt file
 
-## Show any display as gif?
+
+Image
 
 -------------------
 Description: numerical methods. Minimos cuadrados. Young athletes. Track & Field.
