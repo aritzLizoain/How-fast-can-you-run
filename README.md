@@ -11,11 +11,18 @@
 ## Choose your event
 All olympic events are available: 100m, 200m, 400m, 800m, 1500m, 5000m, 10000m, marathon, 100m hurdles, 110m hurdles, 400m hurdles, 3000m steeplechase, high jump, long jump, triple jump, pole vault, shot put, javelin throw, discus throw, hammer throw, decathlon, heptathlon, 20km walk, 50km walk.
 
-Image
+<p align="center">
+<img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Enter_event.png"/>
+</p>
 
 ## Enter your personal bests (PBs)
 
-Image
+<p align="center">
+<img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Enter_PBs.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Enter_PBs_2.png"/>
+</p>
 
 ## Analyze your progression 
 
