@@ -1,6 +1,6 @@
 # How fast can you run?
 <p align="center">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fzigapskraba.files.wordpress.com%2F2016%2F08%2F24141_celebutopia-usain_bolt-men6s_100-meter_final_during_beijing_2008_olympics-13_122_460lo.jpg&imgrefurl=https%3A%2F%2Fzigapskraba.com%2F2016%2F08%2F11%2F14-bolts-9-69-in-beijing-2008-what-could-he-have-run%2F&tbnid=2nH8sLKFy4hezM&vet=12ahUKEwiR9sWfi9LsAhWJNuwKHf25CxsQMygGegUIARCkAQ..i&docid=S7bOZ60AAXEooM&w=3633&h=1679&q=bolt%202008%20olympics&ved=2ahUKEwiR9sWfi9LsAhWJNuwKHf25CxsQMygGegUIARCkAQ"/>
+<img src="https://zigapskraba.files.wordpress.com/2016/08/24141_celebutopia-usain_bolt-men6s_100-meter_final_during_beijing_2008_olympics-13_122_460lo.jpg/>
 </p>
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tensorflow)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/aritzLizoain/CNN-Image-Segmentation)
