@@ -8,14 +8,14 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/aritzLizoain/How-fast-can-you-run?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/aritzLizoain/How-fast-can-you-run?style=social)
 
-## Choose your event
+## :checkered_flag: Choose your event
 All olympic events are available: 100m, 200m, 400m, 800m, 1500m, 5000m, 10000m, marathon, 100m hurdles, 110m hurdles, 400m hurdles, 3000m steeplechase, high jump, long jump, triple jump, pole vault, shot put, javelin throw, discus throw, hammer throw, decathlon, heptathlon, 20km walk, 50km walk.
 
 <p align="center">
 <img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Enter_event.png"/>
 </p>
 
-## Enter your personal bests (PBs)
+## :top: Enter your personal bests (PBs)
 
 <p align="center">
 <img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Enter_PBs.png"/>
@@ -24,19 +24,19 @@ All olympic events are available: 100m, 200m, 400m, 800m, 1500m, 5000m, 10000m, 
 <img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Enter_PBs_2.png"/>
 </p>
 
-## Analyze your progression 
+## :chart_with_upwards_trend: Analyze your progression 
 
 <p align="center">
 <img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Progression.gif"/>
 </p>
 
-## Predict your future PB!
+## :crystal_ball: Predict your future PB!
 
 <p align="center">
 <img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Predict_PB.png"/>
 </p>
 
-## Save your results in a txt file
+## :clipboard: Save your results in a txt file
 
 <p align="center">
 <img src="https://github.com/aritzLizoain/How-fast-can-you-run/blob/main/Output/Results.png"/>
