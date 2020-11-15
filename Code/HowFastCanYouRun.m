@@ -1,4 +1,11 @@
-%AUTHOR: ARITZ LIZOAIN 
+%//////////////////////////////////////////////////////////////////////////////////////////
+%// Original author: Aritz Lizoain
+%// Github: https://github.com/aritzLizoain
+%// My personal website: https://aritzlizoain.github.io/
+%// Description: Numerical methods (Least Squares Approximation) employment
+%// Copyright 2020, Aritz Lizoain.
+%// License: MIT License
+%//////////////////////////////////////////////////////////////////////////////////////////
 %------------------------------REFERENCES---------------------------------
 %Peak performance ages taken from: https://www.researchgate.net/figure/...
 %Age-y-at-Peak-Performance-and-Number-of-Years-in-the-Peak-Performance-...
