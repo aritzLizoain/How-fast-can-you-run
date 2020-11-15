@@ -1,4 +1,12 @@
-%AUTHOR: ARITZ LIZOAIN 
+%//////////////////////////////////////////////////////////////////////////////////////////
+%// Original author: Aritz Lizoain
+%// Github: https://github.com/aritzLizoain
+%// My personal website: https://aritzlizoain.github.io/
+%// Description: Numerical methods (Least Squares Approximation) employment
+%// Copyright 2020, Aritz Lizoain.
+%// License: MIT License
+%//////////////////////////////////////////////////////////////////////////////////////////
+
 %Information related to each olympic event
 % * Name
 % * Units
@@ -6,6 +14,7 @@
 % * Women's WR
 % * Peak performance age
 % * Least Squares Approximation function
+
 function [event_string, title_event, units_event, WR_event_M, WR_event_W...
     , WR_event_legend_M, WR_event_legend_W, best_age_event, F]...
     = get_event_information(event)
