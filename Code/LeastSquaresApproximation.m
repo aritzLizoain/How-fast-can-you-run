@@ -1,4 +1,13 @@
-%AUTHOR: ARITZ LIZOAIN 
+%//////////////////////////////////////////////////////////////////////////////////////////
+%// Original author: Carlos Beltrán (https://personales.unican.es/beltranc/)
+%// Modified by: Aritz Lizoain
+%// Github: https://github.com/aritzLizoain
+%// My personal website: https://aritzlizoain.github.io/
+%// Description: Numerical methods (Least Squares Approximation) employment
+%// Copyright 2020, Aritz Lizoain.
+%// License: MIT License
+%//////////////////////////////////////////////////////////////////////////////////////////
+
 function [coeff,y]=LeastSquaresApproximation(a,b,F,x,plotme)
 % Given a row vector of functions F provides the linear combination of
 %functions it contains that best approximates by least squares the data
@@ -8,7 +17,7 @@ function [coeff,y]=LeastSquaresApproximation(a,b,F,x,plotme)
 % Employment example:
 % a=[-1;0;1;2;3];
 % b=[-2;0;0;-2;-6];
-% F=@(x) [x x.�4]
+% F=@(x) [x x.ˆ4]
 % [coeff,y]=LeastSquaresApproximation(a,b,F,x,1);
 
 n=length(a);
