@@ -1,4 +1,12 @@
-%AUTHOR: ARITZ LIZOAIN
+%//////////////////////////////////////////////////////////////////////////////////////////
+%// Original author: Aritz Lizoain
+%// Github: https://github.com/aritzLizoain
+%// My personal website: https://aritzlizoain.github.io/
+%// Description: Numerical methods (Least Squares Approximation) employment
+%// Copyright 2020, Aritz Lizoain.
+%// License: MIT License
+%//////////////////////////////////////////////////////////////////////////////////////////
+
 function create_plot(time, values_in_time, ages, PBs, title_event,...
     units_event, best_age_event, WR_event_M, WR_event_W, age_last,...
     WR_event_legend_M, WR_event_legend_W)
