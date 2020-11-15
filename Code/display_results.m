@@ -1,6 +1,15 @@
-%AUTHOR: ARITZ LIZOAIN 
+%//////////////////////////////////////////////////////////////////////////////////////////
+%// Original author: Aritz Lizoain
+%// Github: https://github.com/aritzLizoain
+%// My personal website: https://aritzlizoain.github.io/
+%// Description: Numerical methods (Least Squares Approximation) employment
+%// Copyright 2020, Aritz Lizoain.
+%// License: MIT License
+%//////////////////////////////////////////////////////////////////////////////////////////
+
 %Displays the sentence: Your future PB in the "" event will be: ""
 %seconds/cm/points (estimated at the age of "")
+
 function display_results(best_age_event, WR_event_M,...
     WR_event_W, event_string, best_PB, units_event)
 
